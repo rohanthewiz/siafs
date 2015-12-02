@@ -14,3 +14,7 @@ For the server
 Example of accessing an asset
 
     http://localhost:8020/files/up_arrow.svg
+
+### Caution
+
+Since there is no authentication here, this is not recommended for production if files are private
